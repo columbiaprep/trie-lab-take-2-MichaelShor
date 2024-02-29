@@ -2,7 +2,7 @@
 public class TrieNode
 {
     // Alphabet size (# of symbols)
-    static final int ALPHABET_SIZE = 29;
+    static final int ALPHABET_SIZE = 30;
 
     TrieNode[] children = new TrieNode[ALPHABET_SIZE];
 
