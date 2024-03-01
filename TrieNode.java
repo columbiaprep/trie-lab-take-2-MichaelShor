@@ -9,6 +9,7 @@ public class TrieNode
     // isEndOfWord is true if the node represents
     // end of a word
     boolean isEndOfWord;
+    char theLetter = '\u0000';
 
     TrieNode(){
         isEndOfWord = false;
