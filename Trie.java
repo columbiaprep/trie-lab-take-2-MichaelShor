@@ -19,7 +19,7 @@ public class Trie {
         if (key.length() < 2) {
             return;
         }
-
+        //he
         // strip the first character from word
         else {
 
